@@ -14,8 +14,8 @@ My Portfolio
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://raw.githubusercontent.com/my-skills-app/Modern-Portfolio/refs/heads/main/assets/Screen%20Shorts/s-1.png" alt="project-screenshot" width="1418" height="600/">
+<img src="https://raw.githubusercontent.com/my-skills-app/Modern-Portfolio/refs/heads/main/assets/Screen%20Shorts/s-1.png">
 
-<img src="https://github.com/my-skills-app/Modern-Portfolio/blob/main/assets/Screen%20Shorts/s-2.png" alt="project-screenshot" width="1426" height="600/">
+<img src="https://github.com/my-skills-app/Modern-Portfolio/blob/main/assets/Screen%20Shorts/s-2.png">
 
-<img src="https://github.com/my-skills-app/Modern-Portfolio/blob/main/assets/Screen%20Shorts/s-3.png" alt="project-screenshot" width="1414" height="600/">
+<img src="https://github.com/my-skills-app/Modern-Portfolio/blob/main/assets/Screen%20Shorts/s-3.png">
