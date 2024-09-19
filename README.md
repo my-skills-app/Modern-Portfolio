@@ -1,6 +1,7 @@
 # Modern-Portfolio
 My Portfolio
 
+
 <h1 align="center" id="title">My Portfolio</h1>
 
 <p align="center"><img src="https://66e0aef4478f38109bc18885--stupendous-alfajores-e981c9.netlify.app/assets/images/my-avatar.png" alt="project-image"></p>
@@ -13,8 +14,8 @@ My Portfolio
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://raw.githubusercontent.com/my-skills-app/Modern-Portfolio/refs/heads/main/assets/Screen%20Shorts/s-1.png" alt="project-screenshot" width="300" height="20/">
+<img src="https://raw.githubusercontent.com/my-skills-app/Modern-Portfolio/refs/heads/main/assets/Screen%20Shorts/s-1.png" alt="project-screenshot" width="1418" height="678/">
 
-<img src="https://github.com/my-skills-app/Modern-Portfolio/blob/main/assets/Screen%20Shorts/s-2.png" alt="project-screenshot" width="300" height="677/">
+<img src="https://github.com/my-skills-app/Modern-Portfolio/blob/main/assets/Screen%20Shorts/s-2.png" alt="project-screenshot" width="1426" height="677/">
 
-<img src="https://github.com/my-skills-app/Modern-Portfolio/blob/main/assets/Screen%20Shorts/s-3.png" alt="project-screenshot" width="300" height="673/">
+<img src="https://github.com/my-skills-app/Modern-Portfolio/blob/main/assets/Screen%20Shorts/s-3.png" alt="project-screenshot" width="1414" height="673/">
